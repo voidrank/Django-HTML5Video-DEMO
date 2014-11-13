@@ -1,4 +1,4 @@
-PySharpYoghourt
+PySharpVideo
 ===============
 
 A Video CMS
